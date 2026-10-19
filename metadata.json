@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Pecahan Saung Pintar Dukuhwaru",
+  "description": "Web Pembelajaran Interaktif Matematika Kelas 5 SD Bab 3: Bilangan Pecahan di Saung Pintar Dukuhwaru dengan visualizer pizza, KPK, dan kuis berhadiah sertifikat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
